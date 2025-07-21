@@ -67,7 +67,7 @@ cd ai-personas
 - 💻 **CLI & Python API** (Kommandozeile + programmierbar)
 - 📊 **JSON/Markdown Ausgabe** (strukturierte Daten + Berichte)
 - 🧠 **Unabhängige Persona-Gedächtnisse** (konsistente Antworten)
-- ⚡ **Kostenfrei** (Mistral AI über OpenRouter)
+- ⚡ **Günstig** (Mistral AI über OpenRouter)
 
 ## 🔧 Manuelle Installation
 
@@ -256,13 +256,13 @@ python run_batch.py --config variant_b.json --output study_b
 ## 🏗️ Technische Architektur & Entscheidungen
 
 ### Warum Mistral AI?
-- **Kostenlos**: Mistral Small über OpenRouter ist völlig kostenlos
+- **Günstig**: Mistral Small über OpenRouter ist sehr kostengünstig
 - **Qualität**: Hochwertiges mehrsprachiges Modell (DE/EN)
 - **Performance**: Schnelle Antwortzeiten für Interviews
 - **Konsistenz**: Stabile Persona-Charakteristiken
 
 ### Warum OpenRouter?
-- **Kostenkontrolle**: Kostenlose Modelle ohne versteckte Gebühren
+- **Kostenkontrolle**: Günstige Modelle mit transparenten Preisen
 - **Einfachheit**: Ein API-Schlüssel für viele AI-Modelle
 - **Zuverlässigkeit**: Professioneller API-Gateway mit hoher Verfügbarkeit
 - **Flexibilität**: Einfacher Modellwechsel ohne Code-Änderungen
@@ -328,15 +328,15 @@ DEFAULT_MODEL=mistralai/mistral-small-24b-instruct-2501:free
 - **🐍 Python 3.8+** - Robust, weitverbreitet, große AI-Community
 - **🔗 LangChain** - De-facto Standard für AI-Anwendungen, vereinfacht Prompt-Management
 - **🌐 OpenRouter** - Kostengünstigster Zugang zu hochwertigen AI-Modellen
-- **🤖 Mistral AI** - Beste kostenlose Option: mehrsprachig, konsistent, schnell
+- **🤖 Mistral AI** - Beste günstige Option: mehrsprachig, konsistent, schnell
 
 ### Warum diese Kombination?
-- **Kosten**: Völlig kostenfrei durch OpenRouter + Mistral
+- **Kosten**: Sehr günstig durch OpenRouter + Mistral
 - **Qualität**: Professionelle Ergebnisse ohne Kompromisse
 - **Entwicklung**: Schnelle Iteration durch LangChain-Abstraktion
 - **Skalierung**: Einfacher Wechsel zu anderen Modellen bei Bedarf
 
-**Gesamtkosten: 0€** 💰 (Ideal für Experimente und kleine Projekte)
+**Gesamtkosten: Sehr günstig** 💰 (Ideal für Experimente und kleine Projekte)
 
 ---
 
