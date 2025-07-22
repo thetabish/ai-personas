@@ -1,6 +1,6 @@
 # Synthetisches Interview System 🎤
 
-Automatisierte synthetische Interviews mit AI-Personas für Lifestyle-Marken-Forschung mit LangChain und OpenRoute## 🔧 Anpassung
+Automatisierte synthetische Interviews mit AI-Personas für Lifestyle-Marken-Forschung mit LangChain und OpenRouter
 
 **AI-Modell wechseln** (in `.env`):
 ```
@@ -16,6 +16,12 @@ DEFAULT_MODEL=mistralai/mistral-small-24b-instruct-2501:free
 - 📊 **JSON/Markdown Ausgabe** (strukturierte Daten + Berichte)
 - 🧠 **Unabhängige Persona-Gedächtnisse** (konsistente Antworten)
 - ⚡ **Günstig** (Mistral AI über OpenRouter)
+
+## 👥 Die 3 AI-Personas
+
+- **🌱 Anna (20)** - Umweltbewusste Studentin der Umweltwissenschaften. Kauft Second-Hand, ist auf Social Media aktiv und kann Greenwashing erkennen.
+- **🏃‍♂️ Tom (40)** - Sportlicher Marketing-Manager in der Tech-Branche. Marathon-Läufer, schätzt Qualität über Preis und ist effizienz-orientiert.
+- **👨‍👩‍👧‍👦 Julia (35)** - Praktische Familienmutter mit 2 Kindern. Teilzeit-Buchhalterin, preisbewusst, budgetorientiert und vertraut auf Mundpropaganda.
 
 ## Schnell-Start
 
