@@ -17,7 +17,7 @@ DEFAULT_MODEL=mistralai/mistral-small-24b-instruct-2501:free
 - 🧠 **Unabhängige Persona-Gedächtnisse** (konsistente Antworten)
 - ⚡ **Günstig** (Mistral AI über OpenRouter)
 
-## � Schnell-Start
+## Schnell-Start
 
 ### 1. API-Schlüssel besorgen
 1. Gehen Sie zu: https://openrouter.ai/mistralai/mistral-small-24b-instruct-2501:free/api
@@ -151,7 +151,7 @@ PersonaAgent → LangChain → OpenRouter → Mistral AI → Antwort
 3. **Speicherung**: Strukturierte JSON/Markdown-Ausgabe
 4. **Gedächtnis**: Personas erinnern sich an eigene Antworten (konsistent)
 
-## � Anpassung
+## Anpassung
 
 **Neue Personas hinzufügen:**
 ```python
