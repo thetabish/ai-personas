@@ -176,7 +176,3 @@ DEFAULT_MODEL=mistralai/mistral-small-24b-instruct-2501:free
 - **Windows PowerShell**: Verwenden Sie `.\run.bat` statt `run.bat`
 - **Windows**: Command Prompt (cmd) empfohlen für beste Kompatibilität
 - **Test**: `python agents.py`
-
----
-
-**MIT License** | **Viel Spaß beim Experimentieren! 🚀**
